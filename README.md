@@ -14,6 +14,7 @@ These queries where then visualized with custom KPI designed and implemented.
 ### PostgreSQL, Tableau Public | SQL Techniques: CTEs, window functions (RANK, LAG, NTILE), CASE expressions, multi-table JOINs, staging → mart pipeline
 
 ## Data Structure 
+---
 olist-order-to-payment-analytics/
 ├── README.md
 ├── schema/
@@ -31,6 +32,8 @@ olist-order-to-payment-analytics/
 │   └── operations.png             # Operations & RFM dashboard screenshot
 └── docs/
     └── data_dictionary.md         # Column definitions & business context
+
+---
 ## Data Schema
 
 ### Raw Tables
