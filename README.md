@@ -31,7 +31,6 @@ olist-order-to-payment-analytics/
 │   └── operations.png             # Operations & RFM dashboard screenshot
 └── docs/
     └── data_dictionary.md         # Column definitions & business context
-
 ## Data Schema
 
 ### Raw Tables
